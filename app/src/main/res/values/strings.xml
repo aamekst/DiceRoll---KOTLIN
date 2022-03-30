@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Aula03</string>
+    <string name="botao_confirmar" translatable="false">Confirmar</string>
+    <string name="confirma">CONFIRMA ?</string>
+</resources>
